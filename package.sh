@@ -25,7 +25,7 @@ WIN_PORTABLE_PY_VERSION=2.7.2.1
 
 ##Which CuraEngine to use
 if [ -z ${CURA_ENGINE_REPO} ] ; then
-	CURA_ENGINE_REPO="https://github.com/GregFrost/CuraEngine"
+	CURA_ENGINE_REPO="https://github.com/Ultimaker/CuraEngine"
 fi
 
 #############################
